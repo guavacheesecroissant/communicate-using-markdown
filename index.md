@@ -13,3 +13,6 @@ int main() {
     return 0;
 }
 ```
+- [ ] make money
+- [ ] learn math
+- [ ] have fun
